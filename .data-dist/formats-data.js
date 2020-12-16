@@ -1278,7 +1278,7 @@
 		tier: "OU",
 	},
 	kyogretangrowth: {
-		tier: "Uber",
+		tier: "OU",
 	},
 	giratinaumbreon: {
         	randomBattleMoves: ["wish", "protect", "defog", "foulplay", "healbell", "willowIsp", "toxic"],

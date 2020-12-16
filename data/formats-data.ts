@@ -3877,4 +3877,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	latiasbibarel: {
 		tier: "OU",
 	},
+	venusaurempoleon: {
+		tier: "Uber",
+	},
 };
